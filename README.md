@@ -1,10 +1,10 @@
-# 👋 Hello, I'm [Nolan Rider]
+# Hello, I'm Nolan Rider
 
 ## About Me
-[Brief introduction about yourself, your interests, and what you're passionate about in tech]
+Current student at University of Missouri Columbia
 
 ## 🔧 Technologies & Tools
-[List of technologies, languages, and tools you're proficient in]
+Python, C#, Bash
 
 ## 📫 How to reach me
 - Email: ridernolan621@outlook.com
