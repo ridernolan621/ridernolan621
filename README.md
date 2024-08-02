@@ -8,4 +8,4 @@
 
 ## 📫 How to reach me
 - Email: ridernolan621@outlook.com
-- LinkedIn: (https://www.linkedin.com/in/nolan-rider/)
+- LinkedIn: https://www.linkedin.com/in/nolan-rider/
