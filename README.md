@@ -7,6 +7,5 @@
 [List of technologies, languages, and tools you're proficient in]
 
 ## 📫 How to reach me
-- Email: [your email]
-- LinkedIn: [your LinkedIn profile]
-- Twitter: [@yourhandle]
+- Email: ridernolan621@outlook.com
+- LinkedIn: (https://www.linkedin.com/in/nolan-rider/)
