@@ -3,9 +3,9 @@
 ## About Me
 Current student at University of Missouri Columbia
 
-## 🔧 Technologies & Tools
+## Technologies & Tools
 Python, C#, Bash
 
-## 📫 How to reach me
+## How to reach me
 - Email: ridernolan621@outlook.com
 - LinkedIn: https://www.linkedin.com/in/nolan-rider/
