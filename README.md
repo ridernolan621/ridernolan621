@@ -1,4 +1,4 @@
-# Hello, I'm Nolan Rider
+# Nolan Rider
 
 ## About Me
 Current student at University of Missouri Columbia
