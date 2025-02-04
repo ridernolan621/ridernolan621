@@ -3,7 +3,7 @@
 ## About Me
 Current student at University of Missouri Columbia
 
-## Technologies & Tools
+## Languages
 Python, C#, Bash
 
 ## How to reach me
